@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/header-gotham.jpg" alt="Batman contemplando la ciudad de noche" width="100%">
+</p>
+
 <p align="center"><strong>CARLES FORNÉS</strong></p>
 
 <br>
