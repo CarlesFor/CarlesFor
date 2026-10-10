@@ -2,8 +2,6 @@
 
 # CARLES FORNÉS
 
-### Avanzar, sin dejar atrás aquello que nos hace humanos.
-
 </div>
 
 ---
@@ -28,18 +26,6 @@ Mi ambición no es detener el progreso, sino ayudar a dirigirlo. Crear herramien
 
 ---
 
-## EXPERIMENTOS
+## REDES
 
-### [SLM · ESP32](https://github.com/CarlesFor/SLM_ESP32)
-
-Un modelo de lenguaje de 260.000 parámetros ejecutándose localmente en una ESP32 DEVKIT V1 con 4 MB de flash y sin PSRAM.
-
-Genera historias cortas directamente en la placa, sin conexión a internet ni llamadas a una API. El proyecto adapta la inferencia de un checkpoint entrenado con TinyStories e incorpora una pantalla OLED opcional.
-
-`ESP32` · `C` · `Arduino` · `TinyStories` · `Inferencia local`
-
----
-
-## TRANSMISIONES
-
-<!-- Añadir aquí las redes sociales de Carles cuando estén definidas. -->
+[Instagram · @forneess](https://www.instagram.com/forneess/)
