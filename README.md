@@ -1,12 +1,8 @@
-<div align="center">
+<p align="center"><strong>CARLES FORNÉS</strong></p>
 
-# CARLES FORNÉS
+<br>
 
-</div>
-
----
-
-## MANIFIESTO
+**MANIFIESTO**
 
 La humanidad siempre ha avanzado cuando se ha atrevido a construir herramientas más grandes que sus miedos.
 
@@ -24,8 +20,8 @@ Mi ambición no es detener el progreso, sino ayudar a dirigirlo. Crear herramien
 
 — Carles Fornés
 
----
+<br>
 
-## REDES
+**REDES**
 
 [Instagram · @forneess](https://www.instagram.com/forneess/)
